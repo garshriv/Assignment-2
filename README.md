@@ -1,2 +1,8 @@
 # Assignment-2
-This assignment contains 2 programs, one is Highest number among 3 numbers and second is Cross pattern
+1. Write a program to find the highest among the given 3 numbers.
+2. Write a program to print the following pattern:
+*     *
+  * *
+   *
+ *   *
+*      *
